@@ -1,0 +1,32 @@
+body{
+    background-color: skyblue;
+}
+.cal{
+    background-color: black;
+    height: 250px;
+    margin: auto;
+    width: 200px;
+    padding: 14px;
+    margin-top: 20px;
+    
+
+}
+input[type=text] {
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+input[type=button]{
+    width: 47px;
+    padding-top: 13px;
+    font-weight: 22px;
+    margin-top: 13px;
+    border-radius: 6px;
+    
+}
+#del{
+    width: 100%;
+    background-color: pink;
+    border-radius: 4px;
+}
